@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rahuldey-anshu/NameIT/static/css/main.6b2b90ce.chunk.css",
+    "main.js": "/rahuldey-anshu/NameIT/static/js/main.e43a2982.chunk.js",
+    "main.js.map": "/rahuldey-anshu/NameIT/static/js/main.e43a2982.chunk.js.map",
+    "runtime-main.js": "/rahuldey-anshu/NameIT/static/js/runtime-main.4c8873e8.js",
+    "runtime-main.js.map": "/rahuldey-anshu/NameIT/static/js/runtime-main.4c8873e8.js.map",
+    "static/js/2.e4cb6173.chunk.js": "/rahuldey-anshu/NameIT/static/js/2.e4cb6173.chunk.js",
+    "static/js/2.e4cb6173.chunk.js.map": "/rahuldey-anshu/NameIT/static/js/2.e4cb6173.chunk.js.map",
+    "static/js/3.902c6391.chunk.js": "/rahuldey-anshu/NameIT/static/js/3.902c6391.chunk.js",
+    "static/js/3.902c6391.chunk.js.map": "/rahuldey-anshu/NameIT/static/js/3.902c6391.chunk.js.map",
+    "index.html": "/rahuldey-anshu/NameIT/index.html",
+    "static/css/main.6b2b90ce.chunk.css.map": "/rahuldey-anshu/NameIT/static/css/main.6b2b90ce.chunk.css.map",
+    "static/js/2.e4cb6173.chunk.js.LICENSE.txt": "/rahuldey-anshu/NameIT/static/js/2.e4cb6173.chunk.js.LICENSE.txt",
+    "static/media/undraw_feeling_proud_qne1.491818df.png": "/rahuldey-anshu/NameIT/static/media/undraw_feeling_proud_qne1.491818df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c8873e8.js",
+    "static/js/2.e4cb6173.chunk.js",
+    "static/css/main.6b2b90ce.chunk.css",
+    "static/js/main.e43a2982.chunk.js"
+  ]
+}
